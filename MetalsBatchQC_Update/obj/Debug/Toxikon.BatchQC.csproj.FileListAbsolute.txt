@@ -1,0 +1,368 @@
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\bin\Debug\Toxikon.BatchQC.exe.config
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\bin\Debug\Toxikon.BatchQC.exe.manifest
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\bin\Debug\Toxikon.BatchQC.application
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\bin\Debug\Toxikon.BatchQC.exe
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\bin\Debug\Toxikon.BatchQC.pdb
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.csproj.ResolveComReference.cache
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.ICPRC.Views.BQCElementUpdatePopup.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Admin.BatchCodeUpdateView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.DepartmentAddView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Admin.ElementAddView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Admin.InstrumentAddView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Admin.ReasonView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.RoleAddView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.UserAddView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Admin.UserUpdateView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.BatchCodeAddView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.BatchCodeListView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.BatchDetailView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.DataSheetView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.ICPRC.BatchReportView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.ICPRC.Views.DilutedSampleView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ElementsView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.ICPRC.Views.LiquidSampleResultsView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.ICPRC.Views.RawFileSamplesView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ReportBuilderView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ReportHeaderListView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ReportSamplesView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.ICPRC.Views.SolidSampleResultsView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.MainView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.HistoryView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Properties.Resources.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.ProjectDeleteView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.ProjectOptionsView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.ProjectsView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.ReagentAddView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.ReagentDeleteView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.ReagentOptionsView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.ReagentsMainView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.ReagentsView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.ReagentUpdateView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Reports.BQCReportListView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.BQCReportView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Reports.ControlChartReportView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Results.UploadResultView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleAddView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleDeleteView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleGroupAddView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleUpdateView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.SampleView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.SpikeSolutionAddView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.SpikeSolutionDeleteView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.SpikeSolutionMainView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.SpikeSolutionOptionsView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.SpikeSolutionView.resources
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.csproj.GenerateResource.Cache
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.TrustInfo.xml
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.exe.manifest
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.application
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.exe
+C:\Users\BMcCulley\Source\toxxwinapp\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.pdb
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\bin\Debug\Toxikon.BatchQC.exe.config
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.csproj.ResolveComReference.cache
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.exe
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.pdb
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\bin\Debug\Toxikon.BatchQC.exe.manifest
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\bin\Debug\Toxikon.BatchQC.application
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\bin\Debug\Toxikon.BatchQC.exe
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\bin\Debug\Toxikon.BatchQC.pdb
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.ICPRC.Views.BQCElementUpdatePopup.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Admin.BatchCodeUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.DepartmentAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Admin.ElementAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Admin.InstrumentAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Admin.ReasonView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.RoleAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.UserAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Admin.UserUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.BatchCodeAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.BatchCodeListView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.BatchDetailView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.DataSheetView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.ICPRC.BatchReportView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.ICPRC.Views.DilutedSampleView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ElementsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.ICPRC.Views.LiquidSampleResultsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.ICPRC.Views.RawFileSamplesView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ReportBuilderView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ReportHeaderListView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ReportSamplesView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.ICPRC.Views.SolidSampleResultsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.MainView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.HistoryView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Properties.Resources.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.ProjectDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.ProjectOptionsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.ProjectsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.ReagentAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.ReagentDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.ReagentOptionsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.ReagentsMainView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.ReagentsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.ReagentUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Reports.BQCReportListView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.BQCReportView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Reports.ControlChartReportView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Results.UploadResultView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleGroupAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.SampleView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.SpikeSolutionAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.SpikeSolutionDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.SpikeSolutionMainView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.Forms.SpikeSolutionOptionsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.Views.UserControls.SpikeSolutionView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.csproj.GenerateResource.Cache
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.TrustInfo.xml
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.exe.manifest
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC\obj\Debug\Toxikon.BatchQC.application
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\bin\Debug\Toxikon.BatchQC.exe.config
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.csproj.ResolveComReference.cache
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.exe
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.pdb
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\bin\Debug\Toxikon.BatchQC.exe.manifest
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\bin\Debug\Toxikon.BatchQC.application
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\bin\Debug\Toxikon.BatchQC.exe
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\bin\Debug\Toxikon.BatchQC.pdb
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.ICPRC.Views.BQCElementUpdatePopup.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Admin.BatchCodeUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.UserControls.DepartmentAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Admin.ElementAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Admin.InstrumentAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Admin.ReasonView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.UserControls.RoleAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.UserControls.UserAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Admin.UserUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.UserControls.BatchCodeAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.UserControls.BatchCodeListView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.UserControls.BatchDetailView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.UserControls.DataSheetView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.ICPRC.BatchReportView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.ICPRC.Views.DilutedSampleView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ElementsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.ICPRC.Views.LiquidSampleResultsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.ICPRC.Views.RawFileSamplesView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ReportBuilderView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ReportHeaderListView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ReportSamplesView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.ICPRC.Views.SolidSampleResultsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Forms.MainView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.UserControls.HistoryView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Properties.Resources.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Forms.ProjectDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Forms.ProjectOptionsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.UserControls.ProjectsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.UserControls.ReagentAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Forms.ReagentDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Forms.ReagentOptionsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.UserControls.ReagentsMainView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.UserControls.ReagentsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Forms.ReagentUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Reports.BQCReportListView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.UserControls.BQCReportView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Reports.ControlChartReportView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Results.UploadResultView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleGroupAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.UserControls.SampleView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.UserControls.SpikeSolutionAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Forms.SpikeSolutionDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.UserControls.SpikeSolutionMainView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.Forms.SpikeSolutionOptionsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.Views.UserControls.SpikeSolutionView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.csproj.GenerateResource.Cache
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.TrustInfo.xml
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.exe.manifest
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.application
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test\obj\Debug\Toxikon.BatchQC.csprojResolveAssemblyReference.cache
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\bin\Debug\Toxikon.BatchQC.exe.config
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.csproj.ResolveComReference.cache
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.exe
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.pdb
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\bin\Debug\Toxikon.BatchQC.exe.manifest
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\bin\Debug\Toxikon.BatchQC.application
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\bin\Debug\Toxikon.BatchQC.exe
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\bin\Debug\Toxikon.BatchQC.pdb
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.ICPRC.Views.BQCElementUpdatePopup.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Admin.BatchCodeUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.UserControls.DepartmentAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Admin.ElementAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Admin.InstrumentAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Admin.ReasonView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.UserControls.RoleAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.UserControls.UserAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Admin.UserUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.UserControls.BatchCodeAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.UserControls.BatchCodeListView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.UserControls.BatchDetailView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.UserControls.DataSheetView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.ICPRC.BatchReportView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.ICPRC.Views.DilutedSampleView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ElementsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.ICPRC.Views.LiquidSampleResultsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.ICPRC.Views.RawFileSamplesView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ReportBuilderView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ReportHeaderListView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ReportSamplesView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.ICPRC.Views.SolidSampleResultsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Forms.MainView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.UserControls.HistoryView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Properties.Resources.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Forms.ProjectDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Forms.ProjectOptionsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.UserControls.ProjectsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.UserControls.ReagentAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Forms.ReagentDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Forms.ReagentOptionsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.UserControls.ReagentsMainView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.UserControls.ReagentsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Forms.ReagentUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Reports.BQCReportListView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.UserControls.BQCReportView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Reports.ControlChartReportView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Results.UploadResultView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleGroupAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.UserControls.SampleView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.UserControls.SpikeSolutionAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Forms.SpikeSolutionDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.UserControls.SpikeSolutionMainView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.Forms.SpikeSolutionOptionsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.Views.UserControls.SpikeSolutionView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.csproj.GenerateResource.Cache
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.TrustInfo.xml
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.exe.manifest
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.application
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25\obj\Debug\Toxikon.BatchQC.csprojResolveAssemblyReference.cache
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\bin\Debug\Toxikon.BatchQC.exe.config
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.csproj.ResolveComReference.cache
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.exe
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.pdb
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\bin\Debug\Toxikon.BatchQC.exe.manifest
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\bin\Debug\Toxikon.BatchQC.application
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\bin\Debug\Toxikon.BatchQC.exe
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\bin\Debug\Toxikon.BatchQC.pdb
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.ICPRC.Views.BQCElementUpdatePopup.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Admin.BatchCodeUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.UserControls.DepartmentAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Admin.ElementAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Admin.InstrumentAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Admin.ReasonView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.UserControls.RoleAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.UserControls.UserAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Admin.UserUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.UserControls.BatchCodeAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.UserControls.BatchCodeListView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.UserControls.BatchDetailView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.UserControls.DataSheetView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.ICPRC.BatchReportView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.ICPRC.Views.DilutedSampleView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ElementsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.ICPRC.Views.LiquidSampleResultsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.ICPRC.Views.RawFileSamplesView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ReportBuilderView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ReportHeaderListView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ReportSamplesView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.ICPRC.Views.SolidSampleResultsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Forms.MainView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.UserControls.HistoryView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Properties.Resources.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Forms.ProjectDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Forms.ProjectOptionsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.UserControls.ProjectsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.UserControls.ReagentAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Forms.ReagentDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Forms.ReagentOptionsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.UserControls.ReagentsMainView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.UserControls.ReagentsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Forms.ReagentUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Reports.BQCReportListView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.UserControls.BQCReportView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Reports.ControlChartReportView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Results.UploadResultView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleGroupAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.UserControls.SampleView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.UserControls.SpikeSolutionAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Forms.SpikeSolutionDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.UserControls.SpikeSolutionMainView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.Forms.SpikeSolutionOptionsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.Views.UserControls.SpikeSolutionView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.csproj.GenerateResource.Cache
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.TrustInfo.xml
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.exe.manifest
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.application
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC -Test_5.25_broken\obj\Debug\Toxikon.BatchQC.csprojResolveAssemblyReference.cache
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBathQC_Backup\MetalsBatchQC_Test_5.31\bin\Debug\Toxikon.BatchQC.exe.config
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBathQC_Backup\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.csproj.ResolveComReference.cache
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBathQC_Backup\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.exe
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBathQC_Backup\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.pdb
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\bin\Debug\Toxikon.BatchQC.exe.config
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.csproj.ResolveComReference.cache
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.exe
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.pdb
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\bin\Debug\Toxikon.BatchQC.exe.manifest
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\bin\Debug\Toxikon.BatchQC.application
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\bin\Debug\Toxikon.BatchQC.exe
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\bin\Debug\Toxikon.BatchQC.pdb
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.ICPRC.Views.BQCElementUpdatePopup.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Admin.BatchCodeUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.UserControls.DepartmentAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Admin.ElementAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Admin.InstrumentAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Admin.ReasonView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.UserControls.RoleAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.UserControls.UserAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Admin.UserUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.UserControls.BatchCodeAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.UserControls.BatchCodeListView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.UserControls.BatchDetailView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.UserControls.DataSheetView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.ICPRC.BatchReportView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.ICPRC.Views.DilutedSampleView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ElementsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.ICPRC.Views.LiquidSampleResultsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.ICPRC.Views.RawFileSamplesView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ReportBuilderView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ReportHeaderListView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.ICPRC.Views.ReportSamplesView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.ICPRC.Views.SolidSampleResultsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Forms.MainView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.UserControls.HistoryView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Properties.Resources.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Forms.ProjectDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Forms.ProjectOptionsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.UserControls.ProjectsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.UserControls.ReagentAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Forms.ReagentDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Forms.ReagentOptionsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.UserControls.ReagentsMainView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.UserControls.ReagentsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Forms.ReagentUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Reports.BQCReportListView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.UserControls.BQCReportView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Reports.ControlChartReportView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Results.UploadResultView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleGroupAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Forms.SampleUpdateView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.UserControls.SampleView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.UserControls.SpikeSolutionAddView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Forms.SpikeSolutionDeleteView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.UserControls.SpikeSolutionMainView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.Forms.SpikeSolutionOptionsView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.Views.UserControls.SpikeSolutionView.resources
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.csproj.GenerateResource.Cache
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.TrustInfo.xml
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.exe.manifest
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.application
+C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MetalsBatchQC_Test_5.31\obj\Debug\Toxikon.BatchQC.csprojResolveAssemblyReference.cache

@@ -1,0 +1,785 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B08AC4E9-2373-4525-BBBB-44C34437414B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Toxikon.BatchQC</RootNamespace>
+    <AssemblyName>Toxikon.BatchQC</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\xzhu\Documents\Zhu_Toxikon\visualstudio2013\MBQCpublish_8.2\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Chem Batch Data Management System_Test</ProductName>
+    <PublisherName>Toxikon_IT</PublisherName>
+    <WebPage>index.html</WebPage>
+    <ApplicationRevision>46</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>true</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>34640123E5454298830E5FE0C623D8B0D36ABC7E</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Toxikon.BatchQC_1_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\chem_logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controllers\Admin\BatchCodeUpdateViewController.cs" />
+    <Compile Include="Controllers\Admin\DepartmentAddController.cs" />
+    <Compile Include="Controllers\Admin\ElementAddViewController.cs" />
+    <Compile Include="Controllers\Admin\InstrumentAddViewController.cs" />
+    <Compile Include="Controllers\Admin\ReasonViewController.cs" />
+    <Compile Include="Controllers\Admin\RoleAddController.cs" />
+    <Compile Include="Controllers\Admin\UserAddController.cs" />
+    <Compile Include="Controllers\Admin\UserUpdateViewController.cs" />
+    <Compile Include="Controllers\BatchCode\BatchCodeAddController.cs" />
+    <Compile Include="Controllers\BatchCode\BatchCodeListController.cs" />
+    <Compile Include="Controllers\BatchDetailController.cs" />
+    <Compile Include="ICPRC\Controllers\BQCElementUpdatePopupController.cs" />
+    <Compile Include="Controllers\DataSheetController.cs" />
+    <Compile Include="ICPRC\Controllers\BatchReportViewController.cs" />
+    <Compile Include="ICPRC\Controllers\DilutedSampleViewController.cs" />
+    <Compile Include="ICPRC\Controllers\ElementsViewController.cs" />
+    <Compile Include="ICPRC\Controllers\LiquidSampleResultViewController.cs" />
+    <Compile Include="ICPRC\Controllers\RawFileSamplesViewController.cs" />
+    <Compile Include="ICPRC\Controllers\ReportBuilderViewController.cs" />
+    <Compile Include="ICPRC\Controllers\ReportHeaderListViewController.cs" />
+    <Compile Include="ICPRC\Controllers\ReportSamplesViewController.cs" />
+    <Compile Include="ICPRC\Controllers\SolidSampleResultViewController.cs" />
+    <Compile Include="Controllers\MainController.cs" />
+    <Compile Include="Controllers\Project\ProjectDeleteController.cs" />
+    <Compile Include="Controllers\Project\ProjectOptionsController.cs" />
+    <Compile Include="Controllers\Reagent\ReagentAddController.cs" />
+    <Compile Include="Controllers\Reagent\ReagentDeleteController.cs" />
+    <Compile Include="Controllers\Reagent\ReagentsMainViewController.cs" />
+    <Compile Include="Controllers\Reagent\ReagentUpdateController.cs" />
+    <Compile Include="Controllers\Reports\BQCReportListViewController.cs" />
+    <Compile Include="Controllers\Reports\BQCReportViewController.cs" />
+    <Compile Include="Controllers\Reports\ControlChartReportViewController.cs" />
+    <Compile Include="Controllers\Results\UploadResultViewController.cs" />
+    <Compile Include="Controllers\Sample\SampleAddController.cs" />
+    <Compile Include="Controllers\Sample\SampleDeleteViewController.cs" />
+    <Compile Include="Controllers\Sample\SampleGroupAddController.cs" />
+    <Compile Include="Controllers\Sample\SampleController.cs" />
+    <Compile Include="Controllers\Sample\SampleUpdateController.cs" />
+    <Compile Include="Controllers\SpikeSolution\SpikeSolutionAddController.cs" />
+    <Compile Include="Controllers\SpikeSolution\SpikeSolutionDeleteController.cs" />
+    <Compile Include="Controllers\SpikeSolution\SpikeSolutionMainViewController.cs" />
+    <Compile Include="Controllers\SpikeSolution\SpikeSolutionOptionsController.cs" />
+    <Compile Include="ICPRC\Interfaces\IBQCElementUpdatePopup.cs" />
+    <Compile Include="ICPRC\Models\FileLocations.cs" />
+    <Compile Include="ICPRC\Models\RawFiles\ICPMSQ_RawFile .cs" />
+    <Compile Include="ICPRC\Models\RawFiles\ICAPRQ_RawFile.cs" />
+    <Compile Include="ICPRC\Models\RawFiles\ICPMS_RawFile.cs" />
+    <Compile Include="ICPRC\Queries\BQCDB_UPDATE.cs" />
+    <Compile Include="ICPRC\Views\BQCElementUpdatePopup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ICPRC\Views\BQCElementUpdatePopup.Designer.cs">
+      <DependentUpon>BQCElementUpdatePopup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaces\Admin\IBatchCodeUpdateView.cs" />
+    <Compile Include="Interfaces\Admin\IDepartmentAddView.cs" />
+    <Compile Include="Interfaces\Admin\IElementAddView.cs" />
+    <Compile Include="Interfaces\Admin\IInstrumentAddView.cs" />
+    <Compile Include="Interfaces\Admin\IReasonView.cs" />
+    <Compile Include="Interfaces\Admin\IRoleAddView.cs" />
+    <Compile Include="Interfaces\Admin\IUserAddView.cs" />
+    <Compile Include="Interfaces\Admin\IUserUpdateView.cs" />
+    <Compile Include="Interfaces\BatchCode\IBatchCodeAddView.cs" />
+    <Compile Include="Interfaces\BatchCode\IBatchCodeListView.cs" />
+    <Compile Include="Interfaces\IBatchDetailView.cs" />
+    <Compile Include="ICPRC\Interfaces\IBatchReportView.cs" />
+    <Compile Include="ICPRC\Interfaces\IDilutedSampleView.cs" />
+    <Compile Include="ICPRC\Interfaces\IElementsView.cs" />
+    <Compile Include="ICPRC\Interfaces\ILiquidSampleResultView.cs" />
+    <Compile Include="ICPRC\Interfaces\IRawFileSamplesView.cs" />
+    <Compile Include="ICPRC\Interfaces\IReportBuilderView.cs" />
+    <Compile Include="ICPRC\Interfaces\IReportHeaderListView.cs" />
+    <Compile Include="ICPRC\Interfaces\IReportSamplesView.cs" />
+    <Compile Include="ICPRC\Interfaces\ISolidSampleResultView.cs" />
+    <Compile Include="Interfaces\IDataSheetView.cs" />
+    <Compile Include="Interfaces\IMainView.cs" />
+    <Compile Include="Interfaces\Project\IProjectDeleteView.cs" />
+    <Compile Include="Interfaces\Project\IProjectOptionsView.cs" />
+    <Compile Include="Interfaces\Project\IProjectsView.cs" />
+    <Compile Include="Interfaces\Reagent\IReagentAddView.cs" />
+    <Compile Include="Interfaces\Reagent\IReagentDeleteView.cs" />
+    <Compile Include="Interfaces\Reagent\IReagentOptionsView.cs" />
+    <Compile Include="Interfaces\Reagent\IReagentsMainView.cs" />
+    <Compile Include="Interfaces\Reagent\IReagentsView.cs" />
+    <Compile Include="Interfaces\Reports\IBQCReportListView.cs" />
+    <Compile Include="Interfaces\Reports\IBQCReportView.cs" />
+    <Compile Include="Interfaces\Reports\IControlChartReportView.cs" />
+    <Compile Include="Interfaces\Results\IUploadResultView.cs" />
+    <Compile Include="Interfaces\Sample\ISampleAddView.cs" />
+    <Compile Include="Interfaces\Sample\ISampleDeleteView.cs" />
+    <Compile Include="Interfaces\Sample\ISampleGroupAddView.cs" />
+    <Compile Include="Interfaces\Sample\ISampleUpdateView.cs" />
+    <Compile Include="Interfaces\Sample\ISampleView.cs" />
+    <Compile Include="Interfaces\SpikeSolution\ISpikeSolutionAddView.cs" />
+    <Compile Include="Interfaces\SpikeSolution\ISpikeSolutionDeleteView.cs" />
+    <Compile Include="Interfaces\SpikeSolution\ISpikeSolutionMainView.cs" />
+    <Compile Include="Interfaces\SpikeSolution\ISpikeSolutionOptionsView.cs" />
+    <Compile Include="Interfaces\SpikeSolution\ISpikeSolutionView.cs" />
+    <Compile Include="Controllers\Project\ProjectsController.cs" />
+    <Compile Include="Controllers\Reagent\ReagentOptionsController.cs" />
+    <Compile Include="Controllers\Reagent\ReagentsController.cs" />
+    <Compile Include="Interfaces\Reagent\IReagentUpdateView.cs" />
+    <Compile Include="Controllers\SpikeSolution\SpikeSolutionController.cs" />
+    <Compile Include="Models\DataSheet\BatchDetail.cs" />
+    <Compile Include="Models\DataSheet\MethodCode.cs" />
+    <Compile Include="Models\GenericModels\CustomAuditRecord.cs" />
+    <Compile Include="Models\GenericModels\Element.cs" />
+    <Compile Include="Models\GenericModels\Instrument.cs" />
+    <Compile Include="Models\GenericModels\MethodCodes.cs" />
+    <Compile Include="ICPRC\Models\Liquid\LiquidDataGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ICPRC\Models\Liquid\LiquidReportTemplate.cs" />
+    <Compile Include="ICPRC\Models\Liquid\LiquidReportUtility.cs" />
+    <Compile Include="ICPRC\Models\Liquid\LiquidResult.cs" />
+    <Compile Include="ICPRC\Models\Liquid\LiquidSample.cs" />
+    <Compile Include="ICPRC\Models\RawFiles\ICAP_RawFile.cs" />
+    <Compile Include="ICPRC\Models\Reports\BQCReportTemplate.cs" />
+    <Compile Include="ICPRC\Models\Reports\ExcelDataTable.cs" />
+    <Compile Include="ICPRC\Models\Reports\ExcelTemplate.cs" />
+    <Compile Include="ICPRC\Models\Reports\Report.cs" />
+    <Compile Include="ICPRC\Models\Reports\ReportHeader.cs" />
+    <Compile Include="ICPRC\Models\Reports\ReportUtility.cs" />
+    <Compile Include="ICPRC\Models\Sample\BatchSample.cs" />
+    <Compile Include="ICPRC\Models\Sample\BQCElementResult.cs" />
+    <Compile Include="ICPRC\Models\Sample\ResultNumber.cs" />
+    <Compile Include="ICPRC\Models\Solid\SolidDataGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ICPRC\Models\Solid\SolidReportTemplate.cs" />
+    <Compile Include="ICPRC\Models\Solid\SolidReportUtility.cs" />
+    <Compile Include="ICPRC\Models\Solid\SolidResult.cs" />
+    <Compile Include="ICPRC\Models\Solid\SolidSample.cs" />
+    <Compile Include="Models\Queries\BATCHQC_REPORT.cs" />
+    <Compile Include="Models\Queries\BQC_ADMIN_UPDATE.cs" />
+    <Compile Include="Models\Queries\BQC_CUSTOM_AUDIT.cs" />
+    <Compile Include="Models\Reports\ChartSeriesProperties.cs" />
+    <Compile Include="Models\Reports\ControlChartReport.cs" />
+    <Compile Include="Models\Reports\ExcelChartProperties.cs" />
+    <Compile Include="Models\Reports\ExcelDataTable.cs" />
+    <Compile Include="Models\Reports\ExcelTemplate.cs" />
+    <Compile Include="Models\Results\BQCResultFile.cs" />
+    <Compile Include="Models\Results\BQCSampleResult.cs" />
+    <Compile Include="Models\Queries\BATCHQC_SEARCH.cs" />
+    <Compile Include="Models\Queries\BATCHQC_SELECT.cs" />
+    <Compile Include="Models\Chemical\Chemical.cs" />
+    <Compile Include="Models\Queries\BATCHQC_INSERT.cs" />
+    <Compile Include="Models\Queries\BATCHQC_UPDATE.cs" />
+    <Compile Include="Models\Queries\BQC_ADMIN_INSERT.cs" />
+    <Compile Include="Models\Queries\TMSQueries.cs" />
+    <Compile Include="Models\Reports\BQCReport.cs" />
+    <Compile Include="Models\Reports\BQCReportWordTemplate.cs" />
+    <Compile Include="Models\Reports\MEMSDataSheet.cs" />
+    <Compile Include="Models\Results\SampleResult.cs" />
+    <Compile Include="Models\Sample\SampleGroup.cs" />
+    <Compile Include="Models\GenericModels\SimpleListItem.cs" />
+    <Compile Include="Models\User\Department.cs" />
+    <Compile Include="Models\User\Lab.cs" />
+    <Compile Include="Models\User\LoginInfo.cs" />
+    <Compile Include="Models\DataSheet\Project.cs" />
+    <Compile Include="Models\Chemical\Reagent.cs" />
+    <Compile Include="Models\DataSheet\BatchCode.cs" />
+    <Compile Include="Models\DataSheet\DataSheet.cs" />
+    <Compile Include="Models\GenericModels\Instruments.cs" />
+    <Compile Include="Models\Queries\LIMS_Queries.cs" />
+    <Compile Include="Models\Sample\Sample.cs" />
+    <Compile Include="Models\Sample\SampleTypes.cs" />
+    <Compile Include="Models\Chemical\SpikeSolution.cs" />
+    <Compile Include="Models\GenericModels\Units.cs" />
+    <Compile Include="Models\User\Role.cs" />
+    <Compile Include="Models\User\User.cs" />
+    <Compile Include="Models\GenericModels\Utility.cs" />
+    <Compile Include="ICPRC\Queries\BQCDB_INSERT.cs" />
+    <Compile Include="ICPRC\Queries\BQCDB_SELECT.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="Views\Admin\BatchCodeUpdateView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Admin\BatchCodeUpdateView.Designer.cs">
+      <DependentUpon>BatchCodeUpdateView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Admin\DepartmentAddView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Admin\DepartmentAddView.Designer.cs">
+      <DependentUpon>DepartmentAddView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Admin\ElementAddView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Admin\ElementAddView.Designer.cs">
+      <DependentUpon>ElementAddView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Admin\InstrumentAddView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Admin\InstrumentAddView.Designer.cs">
+      <DependentUpon>InstrumentAddView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Admin\ReasonView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Admin\ReasonView.Designer.cs">
+      <DependentUpon>ReasonView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Admin\RoleAddView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Admin\RoleAddView.Designer.cs">
+      <DependentUpon>RoleAddView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Admin\UserAddView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Admin\UserAddView.Designer.cs">
+      <DependentUpon>UserAddView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Admin\UserUpdateView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Admin\UserUpdateView.Designer.cs">
+      <DependentUpon>UserUpdateView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\BatchCode\BatchCodeAddView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\BatchCode\BatchCodeAddView.Designer.cs">
+      <DependentUpon>BatchCodeAddView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\BatchCode\BatchCodeListView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\BatchCode\BatchCodeListView.Designer.cs">
+      <DependentUpon>BatchCodeListView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\BatchDetailView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\BatchDetailView.Designer.cs">
+      <DependentUpon>BatchDetailView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\DataSheetView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\DataSheetView.Designer.cs">
+      <DependentUpon>DataSheetView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ICPRC\Views\BatchReportView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ICPRC\Views\BatchReportView.designer.cs">
+      <DependentUpon>BatchReportView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ICPRC\Views\DilutedSampleView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ICPRC\Views\DilutedSampleView.designer.cs">
+      <DependentUpon>DilutedSampleView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ICPRC\Views\ElementsView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ICPRC\Views\ElementsView.designer.cs">
+      <DependentUpon>ElementsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ICPRC\Views\LiquidSampleResultsView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ICPRC\Views\LiquidSampleResultsView.designer.cs">
+      <DependentUpon>LiquidSampleResultsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ICPRC\Views\RawFileSamplesView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ICPRC\Views\RawFileSamplesView.designer.cs">
+      <DependentUpon>RawFileSamplesView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ICPRC\Views\ReportBuilderView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ICPRC\Views\ReportBuilderView.designer.cs">
+      <DependentUpon>ReportBuilderView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ICPRC\Views\ReportHeaderListView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ICPRC\Views\ReportHeaderListView.designer.cs">
+      <DependentUpon>ReportHeaderListView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ICPRC\Views\ReportSamplesView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ICPRC\Views\ReportSamplesView.designer.cs">
+      <DependentUpon>ReportSamplesView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ICPRC\Views\SolidSampleResultsView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ICPRC\Views\SolidSampleResultsView.designer.cs">
+      <DependentUpon>SolidSampleResultsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MainView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\MainView.Designer.cs">
+      <DependentUpon>MainView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\HistoryView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\HistoryView.Designer.cs">
+      <DependentUpon>HistoryView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\Project\ProjectDeleteView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Project\ProjectDeleteView.Designer.cs">
+      <DependentUpon>ProjectDeleteView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Project\ProjectOptionsView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Project\ProjectOptionsView.Designer.cs">
+      <DependentUpon>ProjectOptionsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Project\ProjectsView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Project\ProjectsView.Designer.cs">
+      <DependentUpon>ProjectsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Reagent\ReagentAddView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Reagent\ReagentAddView.Designer.cs">
+      <DependentUpon>ReagentAddView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Reagent\ReagentDeleteView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Reagent\ReagentDeleteView.Designer.cs">
+      <DependentUpon>ReagentDeleteView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Reagent\ReagentOptionsView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Reagent\ReagentOptionsView.Designer.cs">
+      <DependentUpon>ReagentOptionsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Reagent\ReagentsMainView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Reagent\ReagentsMainView.Designer.cs">
+      <DependentUpon>ReagentsMainView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Reagent\ReagentsView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Reagent\ReagentsView.Designer.cs">
+      <DependentUpon>ReagentsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Reagent\ReagentUpdateView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Reagent\ReagentUpdateView.Designer.cs">
+      <DependentUpon>ReagentUpdateView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Reports\BQCReportListView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Reports\BQCReportListView.Designer.cs">
+      <DependentUpon>BQCReportListView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Reports\BQCReportView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Reports\BQCReportView.Designer.cs">
+      <DependentUpon>BQCReportView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Reports\ControlChartReportView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Reports\ControlChartReportView.Designer.cs">
+      <DependentUpon>ControlChartReportView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Results\UploadResultView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Results\UploadResultView.Designer.cs">
+      <DependentUpon>UploadResultView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Sample\SampleAddView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Sample\SampleAddView.Designer.cs">
+      <DependentUpon>SampleAddView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Sample\SampleDeleteView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Sample\SampleDeleteView.Designer.cs">
+      <DependentUpon>SampleDeleteView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Sample\SampleGroupAddView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Sample\SampleGroupAddView.Designer.cs">
+      <DependentUpon>SampleGroupAddView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Sample\SampleUpdateView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Sample\SampleUpdateView.Designer.cs">
+      <DependentUpon>SampleUpdateView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Sample\SampleView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Sample\SampleView.Designer.cs">
+      <DependentUpon>SampleView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\SpikeSolution\SpikeSolutionAddView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\SpikeSolution\SpikeSolutionAddView.Designer.cs">
+      <DependentUpon>SpikeSolutionAddView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\SpikeSolution\SpikeSolutionDeleteView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\SpikeSolution\SpikeSolutionDeleteView.Designer.cs">
+      <DependentUpon>SpikeSolutionDeleteView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\SpikeSolution\SpikeSolutionMainView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\SpikeSolution\SpikeSolutionMainView.Designer.cs">
+      <DependentUpon>SpikeSolutionMainView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\SpikeSolution\SpikeSolutionOptionsView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\SpikeSolution\SpikeSolutionOptionsView.Designer.cs">
+      <DependentUpon>SpikeSolutionOptionsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\SpikeSolution\SpikeSolutionView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\SpikeSolution\SpikeSolutionView.Designer.cs">
+      <DependentUpon>SpikeSolutionView.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ICPRC\Views\BQCElementUpdatePopup.resx">
+      <DependentUpon>BQCElementUpdatePopup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Admin\BatchCodeUpdateView.resx">
+      <DependentUpon>BatchCodeUpdateView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Admin\DepartmentAddView.resx">
+      <DependentUpon>DepartmentAddView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Admin\ElementAddView.resx">
+      <DependentUpon>ElementAddView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Admin\InstrumentAddView.resx">
+      <DependentUpon>InstrumentAddView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Admin\ReasonView.resx">
+      <DependentUpon>ReasonView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Admin\RoleAddView.resx">
+      <DependentUpon>RoleAddView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Admin\UserAddView.resx">
+      <DependentUpon>UserAddView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Admin\UserUpdateView.resx">
+      <DependentUpon>UserUpdateView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\BatchCode\BatchCodeAddView.resx">
+      <DependentUpon>BatchCodeAddView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\BatchCode\BatchCodeListView.resx">
+      <DependentUpon>BatchCodeListView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\BatchDetailView.resx">
+      <DependentUpon>BatchDetailView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\DataSheetView.resx">
+      <DependentUpon>DataSheetView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ICPRC\Views\BatchReportView.resx">
+      <DependentUpon>BatchReportView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ICPRC\Views\DilutedSampleView.resx">
+      <DependentUpon>DilutedSampleView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ICPRC\Views\ElementsView.resx">
+      <DependentUpon>ElementsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ICPRC\Views\LiquidSampleResultsView.resx">
+      <DependentUpon>LiquidSampleResultsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ICPRC\Views\RawFileSamplesView.resx">
+      <DependentUpon>RawFileSamplesView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ICPRC\Views\ReportBuilderView.resx">
+      <DependentUpon>ReportBuilderView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ICPRC\Views\ReportHeaderListView.resx">
+      <DependentUpon>ReportHeaderListView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ICPRC\Views\ReportSamplesView.resx">
+      <DependentUpon>ReportSamplesView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ICPRC\Views\SolidSampleResultsView.resx">
+      <DependentUpon>SolidSampleResultsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MainView.resx">
+      <DependentUpon>MainView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\HistoryView.resx">
+      <DependentUpon>HistoryView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Views\Project\ProjectDeleteView.resx">
+      <DependentUpon>ProjectDeleteView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Project\ProjectOptionsView.resx">
+      <DependentUpon>ProjectOptionsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Project\ProjectsView.resx">
+      <DependentUpon>ProjectsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Reagent\ReagentAddView.resx">
+      <DependentUpon>ReagentAddView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Reagent\ReagentDeleteView.resx">
+      <DependentUpon>ReagentDeleteView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Reagent\ReagentOptionsView.resx">
+      <DependentUpon>ReagentOptionsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Reagent\ReagentsMainView.resx">
+      <DependentUpon>ReagentsMainView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Reagent\ReagentsView.resx">
+      <DependentUpon>ReagentsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Reagent\ReagentUpdateView.resx">
+      <DependentUpon>ReagentUpdateView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Reports\BQCReportListView.resx">
+      <DependentUpon>BQCReportListView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Reports\BQCReportView.resx">
+      <DependentUpon>BQCReportView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Reports\ControlChartReportView.resx">
+      <DependentUpon>ControlChartReportView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Results\UploadResultView.resx">
+      <DependentUpon>UploadResultView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Sample\SampleAddView.resx">
+      <DependentUpon>SampleAddView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Sample\SampleDeleteView.resx">
+      <DependentUpon>SampleDeleteView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Sample\SampleGroupAddView.resx">
+      <DependentUpon>SampleGroupAddView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Sample\SampleUpdateView.resx">
+      <DependentUpon>SampleUpdateView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Sample\SampleView.resx">
+      <DependentUpon>SampleView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\SpikeSolution\SpikeSolutionAddView.resx">
+      <DependentUpon>SpikeSolutionAddView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\SpikeSolution\SpikeSolutionDeleteView.resx">
+      <DependentUpon>SpikeSolutionDeleteView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\SpikeSolution\SpikeSolutionMainView.resx">
+      <DependentUpon>SpikeSolutionMainView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\SpikeSolution\SpikeSolutionOptionsView.resx">
+      <DependentUpon>SpikeSolutionOptionsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\SpikeSolution\SpikeSolutionView.resx">
+      <DependentUpon>SpikeSolutionView.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Toxikon.BatchQC_1_TemporaryKey.pfx" />
+    <None Include="Toxikon.BatchQC_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AppIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\chem_logo.ico" />
+    <Content Include="IntelliTrace.ico" />
+    <Content Include="Resources\AppIcon2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
